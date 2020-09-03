@@ -1,0 +1,16 @@
+{
+  "name": "npm_license_info",
+  "version": "0.0.1",
+  "description": "",
+  "main": "printLicenseInfo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin Sullivan <colin@colin-sullivan.net>",
+  "license": "MIT",
+  "dependencies": {
+    "legally": "^3.5.6",
+    "npm-api": "^1.0.0",
+    "yargs": "^15.4.1"
+  }
+}
